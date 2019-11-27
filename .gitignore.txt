@@ -1,0 +1,5 @@
+# Ignoring the Temp file #
+Temp/
+
+#Ignoring vs stuff #
+.vs
